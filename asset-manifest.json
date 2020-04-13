@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/making-the-most-of-college/static/css/main.2a844f07.chunk.css",
+    "main.js": "/making-the-most-of-college/static/js/main.f96995e4.chunk.js",
+    "main.js.map": "/making-the-most-of-college/static/js/main.f96995e4.chunk.js.map",
+    "runtime-main.js": "/making-the-most-of-college/static/js/runtime-main.47182a81.js",
+    "runtime-main.js.map": "/making-the-most-of-college/static/js/runtime-main.47182a81.js.map",
+    "static/css/2.1553e246.chunk.css": "/making-the-most-of-college/static/css/2.1553e246.chunk.css",
+    "static/js/2.4690c53c.chunk.js": "/making-the-most-of-college/static/js/2.4690c53c.chunk.js",
+    "static/js/2.4690c53c.chunk.js.map": "/making-the-most-of-college/static/js/2.4690c53c.chunk.js.map",
+    "index.html": "/making-the-most-of-college/index.html",
+    "precache-manifest.95ecdd4d0efa3e14f58f71621eefc73a.js": "/making-the-most-of-college/precache-manifest.95ecdd4d0efa3e14f58f71621eefc73a.js",
+    "service-worker.js": "/making-the-most-of-college/service-worker.js",
+    "static/css/2.1553e246.chunk.css.map": "/making-the-most-of-college/static/css/2.1553e246.chunk.css.map",
+    "static/css/main.2a844f07.chunk.css.map": "/making-the-most-of-college/static/css/main.2a844f07.chunk.css.map",
+    "static/js/2.4690c53c.chunk.js.LICENSE.txt": "/making-the-most-of-college/static/js/2.4690c53c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47182a81.js",
+    "static/css/2.1553e246.chunk.css",
+    "static/js/2.4690c53c.chunk.js",
+    "static/css/main.2a844f07.chunk.css",
+    "static/js/main.f96995e4.chunk.js"
+  ]
+}
