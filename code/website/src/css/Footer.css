@@ -1,0 +1,43 @@
+.foot {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+    color: #e14306;
+    background-color: #09347a;
+}
+
+a.social {
+    margin: 0 1rem;
+    display: inline-block;
+  }
+
+a.youtube {
+    color: red;
+  }
+  
+  a.facebook {
+    color:blue;
+  }
+  
+  a.twitter {
+    color: rgb(28, 182, 243);
+  }
+  
+  a.instagram {
+    color:orangered;
+  }
+
+  a.contact {
+      color: white;
+      font-size : 20px;
+      text-decoration: none;
+
+  }
+
+  a:hover{
+    text-decoration:underline;
+  }
+  
